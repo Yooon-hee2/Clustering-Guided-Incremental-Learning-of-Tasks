@@ -1,6 +1,7 @@
 # Clustering-Guided-Incremental-Learning-of-Tasks
 
 ![image](https://user-images.githubusercontent.com/47030528/116374735-89a06000-a849-11eb-8ac7-57221ee0e181.png)
+
 This is an official Pytorch implementation of Clustering-guided Incremental Learning of Tasks. For details about this paper please refer to the paper [Clustering-Guided Incremental Learning of Tasks](https://ieeexplore.ieee.org/abstract/document/9334003) 
 
 
@@ -25,7 +26,7 @@ This is an official Pytorch implementation of Clustering-guided Incremental Lear
 
 |               |   ImageNet   | StanfordCars |     MNIST    |     CUBS     |    Sketch    |    Flowers   |
 |:-------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
-| Accuracy      |    76.16     |    88.51     |    99.66     |    79.18     |    74.95     |    88.14     |
+| Ours      |    76.16     |    88.51     |    99.66     |    79.18     |    74.95     |    88.14     |
 | Individual Training      |    76.16     |    61.56     |    99.87     |    65.17     |    75.40     |    59.73     | 
 
 ## Clustering Result
