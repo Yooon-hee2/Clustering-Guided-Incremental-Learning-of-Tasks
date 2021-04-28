@@ -34,10 +34,12 @@ This is an official Pytorch implementation of Clustering-guided Incremental Lear
 | Ours      |    76.16     |    88.51     |    99.66     |    79.18     |    74.95     |    88.14     |
 | Individual Training      |    76.16     |    61.56     |    99.87     |    65.17     |    75.40     |    59.73     | 
 
-
+<br>
 
 ## Clustering Result
 ![image](https://user-images.githubusercontent.com/47030528/116376361-244d6e80-a84b-11eb-9fe2-60ea9c2bcf8c.png)
+
+<br>
 
 
 ## Contact
